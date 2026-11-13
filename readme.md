@@ -6,8 +6,6 @@
 
 GitHub Actions 实现 [GLaDOS][glados] 自动签到
 
-([GLaDOS][glados] 可用邀请码: `BADSEVEN`, 双方都有奖励天数)
-
 ## 2026-11-07 更新
 
 GLaDOS 官方调整了签到积分系统（新增 challenge/proof 校验），旧脚本仍能请求成功但只拿到 1 分。**本仓库已同步修复**，按官方完整协议签到，得分恢复正常。
